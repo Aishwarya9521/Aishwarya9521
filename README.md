@@ -11,7 +11,7 @@ I thrive at the intersection of strategy, design, and technology. With a backgro
 ---
 
 ## 🚀 What I'm currently exploring
-- Basic coding (HTML/CSS, JavaScript, Python basics)
+- Technical Languages (HTML/CSS, JavaScript)
 - Creative tools for digital illustration
 - Building small web projects to blend design + logic
 
